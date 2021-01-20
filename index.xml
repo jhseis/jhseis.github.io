@@ -17,7 +17,7 @@
       <pubDate>Mon, 18 Jan 2021 22:00:35 +0800</pubDate>
       
       <guid>/more/</guid>
-      <description></description>
+      <description> Gallery             Useful Links               </description>
     </item>
     
     <item>
@@ -26,8 +26,7 @@
       <pubDate>Mon, 18 Jan 2021 21:47:49 +0800</pubDate>
       
       <guid>/research/</guid>
-      <description>Research Interests  My main research interests are in real-time systems and autonomous systems, including:
- Real-time scheduling and allocation on single- and multi-cores; Flexible and feedback-based methods for task/network scheduling; Control-scheduling co-design and design automation of CPS; Real-time I/O and high predictability computing architecture; Assuring timing and safety of robotic and autonomous systems.   Research Projects ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures (2019 - 2022) PostDoc, funded by Huawei Technologies Co.</description>
+      <description> Research Interests   Seismic Tomography (velocity, velocity changes, attenuation) Array Signal Processing Machine Learning In Seismology  Research Projects        </description>
     </item>
     
     <item>
@@ -38,13 +37,12 @@
       <guid>/home/</guid>
       <description>Jing Hu   Lecturer
 College of Geological Engineering and Geomatics
-Chang&amp;rsquo;an University
-Xi&amp;rsquo;an, China  Address:
+Chang&#39;an University
+Xi&#39;an, China  Address:
 Room 814, Earth Science Building
 Department of Geological Engineering and Geomatics
-Chang&amp;rsquo;an Unversity
-Xi&amp;rsquo;an, China Email: jhsa920@163.com  
- Introduction I am a research associate in the Real-Time Systems Research Group (RTSRG) at the University of York, UK. I am currently working on the MOCHA research project with Dr. Iain Bate. The MOCHA project focuses on modelling and scheduling of complex architectures with high performance and stringent timing requirements for next-generation communication stations.</description>
+Chang&#39;an Unversity
+Xi&#39;an, China Email: jhsa920@163.com    Introduction Biography   </description>
     </item>
     
     <item>
@@ -53,7 +51,7 @@ Xi&amp;rsquo;an, China Email: jhsa920@163.com
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/</guid>
-      <description>Ongoing papers  Hu, J., Guo H., Zhang H., Seismic attenuation tomography of the Gofar Transform Fault, East Pacific Rise Using OBS observations (in preparation) Hu, J., Qiu H., Share P., Qian J., Zhang H., Ben-Zion Y., (2019) Time-dependent earthquake tomography in Southern California (in preparation)  Papers  Yang, S., Hu, J., Zhang, H., &amp;amp; Liu, G. (2020). Simultaneous earthquake detection on multiple stations via convolutional neural network. Seism.</description>
+      <description>Ongoing Papers  Hu, J., Guo H., Zhang H., Seismic attenuation tomography of the Gofar Transform Fault, East Pacific Rise Using OBS observations.  Hu, J., Qiu H., Share P., Qian J., Zhang H., Ben-Zion Y., (2019) Time-dependent earthquake tomography in Southern California.  Papers Yang, S., Hu, J., Zhang, H., &amp; Liu, G. (2020). Simultaneous earthquake detection on multiple stations via convolutional neural network. Seism. Res. Lett. https://doi.org/10.1785/0220200137.  Hu J.</description>
     </item>
     
     <item>
