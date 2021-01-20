@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Hu</title>
+    <link>/</link>
+    <description>Recent content on Jing Hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More</title>
+      <link>/more/</link>
+      <pubDate>Mon, 18 Jan 2021 22:00:35 +0800</pubDate>
+      
+      <guid>/more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 18 Jan 2021 21:47:49 +0800</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research Interests  My main research interests are in real-time systems and autonomous systems, including:
+ Real-time scheduling and allocation on single- and multi-cores; Flexible and feedback-based methods for task/network scheduling; Control-scheduling co-design and design automation of CPS; Real-time I/O and high predictability computing architecture; Assuring timing and safety of robotic and autonomous systems.   Research Projects ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures (2019 - 2022) PostDoc, funded by Huawei Technologies Co.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>Jing Hu   Lecturer
+College of Geological Engineering and Geomatics
+Chang&amp;rsquo;an University
+Xi&amp;rsquo;an, China  Address:
+Room 814, Earth Science Building
+Department of Geological Engineering and Geomatics
+Chang&amp;rsquo;an Unversity
+Xi&amp;rsquo;an, China Email: jhsa920@163.com  
+ Introduction I am a research associate in the Real-Time Systems Research Group (RTSRG) at the University of York, UK. I am currently working on the MOCHA research project with Dr. Iain Bate. The MOCHA project focuses on modelling and scheduling of complex architectures with high performance and stringent timing requirements for next-generation communication stations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description>Ongoing papers  Hu, J., Guo H., Zhang H., Seismic attenuation tomography of the Gofar Transform Fault, East Pacific Rise Using OBS observations (in preparation) Hu, J., Qiu H., Share P., Qian J., Zhang H., Ben-Zion Y., (2019) Time-dependent earthquake tomography in Southern California (in preparation)  Papers  Yang, S., Hu, J., Zhang, H., &amp;amp; Liu, G. (2020). Simultaneous earthquake detection on multiple stations via convolutional neural network. Seism.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/document/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/document/</guid>
+      <description>你好 dada ddd</description>
+    </item>
+    
+  </channel>
+</rss>
